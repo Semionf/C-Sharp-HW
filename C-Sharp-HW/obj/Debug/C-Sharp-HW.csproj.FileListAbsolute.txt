@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C-Sharp-HW\C-Sharp-HW\bin\Debug\C-Sharp-HW.exe.config
+C:\Users\User\source\repos\C-Sharp-HW\C-Sharp-HW\bin\Debug\C-Sharp-HW.exe
+C:\Users\User\source\repos\C-Sharp-HW\C-Sharp-HW\bin\Debug\C-Sharp-HW.pdb
+C:\Users\User\source\repos\C-Sharp-HW\C-Sharp-HW\obj\Debug\C-Sharp-HW.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C-Sharp-HW\C-Sharp-HW\obj\Debug\C-Sharp-HW.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C-Sharp-HW\C-Sharp-HW\obj\Debug\C-Sharp-HW.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C-Sharp-HW\C-Sharp-HW\obj\Debug\C-Sharp-HW.exe
+C:\Users\User\source\repos\C-Sharp-HW\C-Sharp-HW\obj\Debug\C-Sharp-HW.pdb
